@@ -42,19 +42,20 @@ Message: I'm interested in your services!
 
 ### **Google Form Setup**
 
-![Google Form Setup](screenshots/form-setup.png)
+![Google Form Setup](form-setup.png)
+
 
 This is the form that collects responses. It is linked to the Google Sheet for storage.
 
 ### **Zapier Trigger Setup**
 
-![Zapier Trigger Setup](screenshots/zapier-trigger.png)
+![Zapier Trigger Setup](zapier-trigger.png)
 
 Here, we set up Zapier to monitor the Google Sheet for new form submissions.
 
 ### **Test Email**
 
-![Test Email](screenshots/test-email.png)
+![Test Email](test-email.png)
 
 This is an example of the email you receive when a new form submission happens.
 
